@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.5.2
 -- http://www.phpmyadmin.net
---
+-- author: Imtiyaz Hirani
 -- Host: localhost
 -- Generation Time: Feb 16, 2021 at 10:25 PM
 -- Server version: 10.1.19-MariaDB
